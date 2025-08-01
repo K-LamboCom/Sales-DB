@@ -1,0 +1,6 @@
+../etl/gedu.etl/.gradle
+build
+*.log
+out
+.idea
+*.iml
